@@ -1,0 +1,7 @@
+﻿  shutdown.c
+D:\VS2022code\good_luck\good_luck\shutdown.c(11,2): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  good_luck.vcxproj -> D:\VS2022code\good_luck\x64\Release\good_luck.exe
