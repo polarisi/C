@@ -1,0 +1,8 @@
+﻿  operator.c
+D:\VS2022code\operator\operator\operator.c(125,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022code\operator\operator\operator.c(125,9): message : 请考虑在格式字符串中使用“%zu”
+D:\VS2022code\operator\operator\operator.c(126,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022code\operator\operator\operator.c(126,9): message : 请考虑在格式字符串中使用“%zu”
+D:\VS2022code\operator\operator\operator.c(127,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022code\operator\operator\operator.c(127,9): message : 请考虑在格式字符串中使用“%zu”
+  operator.vcxproj -> D:\VS2022code\operator\x64\Debug\operator.exe
