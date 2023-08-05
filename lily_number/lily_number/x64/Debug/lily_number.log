@@ -1,0 +1,3 @@
+﻿  main.c
+D:\VS2022code\lily_number\lily_number\main.c(14,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  lily_number.vcxproj -> D:\VS2022code\lily_number\x64\Debug\lily_number.exe
