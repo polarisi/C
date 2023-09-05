@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS2022code\reverse\reverse\main.c(16,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\VS2022code\reverse\reverse\main.c(17,12): warning C4013: “strlen”未定义；假设外部返回 int
+  reverse.vcxproj -> D:\VS2022code\reverse\x64\Debug\reverse.exe
