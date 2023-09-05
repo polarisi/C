@@ -1,0 +1,3 @@
+﻿  test.c
+D:\VS2022code\Minesweeper_game\Minesweeper_game\test.c(30,2): warning C4013: “srand”未定义；假设外部返回 int
+  Minesweeper_game.vcxproj -> D:\VS2022code\Minesweeper_game\x64\Debug\Minesweeper_game.exe
