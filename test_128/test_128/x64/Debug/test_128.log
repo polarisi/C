@@ -1,0 +1,3 @@
+﻿  test128.c
+D:\Visual_Studio_2022_code\test_128\test_128\test128.c(57,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test_128.vcxproj -> D:\Visual_Studio_2022_code\test_128\x64\Debug\test_128.exe
