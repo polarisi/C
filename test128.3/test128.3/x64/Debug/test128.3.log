@@ -1,0 +1,3 @@
+﻿  test128.c
+D:\Visual_Studio_2022_code\test128.3\test128.3\test128.c(32,10): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  test128.3.vcxproj -> D:\Visual_Studio_2022_code\test128.3\x64\Debug\test128.3.exe
