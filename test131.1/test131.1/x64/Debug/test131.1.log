@@ -1,0 +1,5 @@
+﻿  test131.c
+D:\Visual_Studio_2022_code\test131.1\test131.1\test131.c(39,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual_Studio_2022_code\test131.1\test131.1\test131.c(86,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual_Studio_2022_code\test131.1\test131.1\test131.c(87,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test131.1.vcxproj -> D:\Visual_Studio_2022_code\test131.1\x64\Debug\test131.1.exe
