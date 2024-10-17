@@ -1,0 +1,7 @@
+﻿  address_list.c
+  contact.c
+  正在生成代码...
+D:\Visual_Studio_2022_code\142address_list\142address_list\contact.c(191,11): warning C4098: “DelContact”:“void”函数返回值
+D:\Visual_Studio_2022_code\142address_list\142address_list\contact.c(222,11): warning C4098: “SearchContact”:“void”函数返回值
+D:\Visual_Studio_2022_code\142address_list\142address_list\contact.c(255,11): warning C4098: “ModifyContact”:“void”函数返回值
+  142address_list.vcxproj -> D:\Visual_Studio_2022_code\142address_list\x64\Debug\142address_list.exe
