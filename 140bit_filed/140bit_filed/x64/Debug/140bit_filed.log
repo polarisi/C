@@ -1,0 +1,6 @@
+﻿  bitfiled.c
+D:\Visual_Studio_2022_code\140bit_filed\140bit_filed\bitfiled.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual_Studio_2022_code\140bit_filed\140bit_filed\bitfiled.c(37,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  140bit_filed.vcxproj -> D:\Visual_Studio_2022_code\140bit_filed\x64\Debug\140bit_filed.exe
