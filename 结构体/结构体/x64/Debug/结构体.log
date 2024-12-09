@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Visual_Studio_2022_code\结构体\结构体\main.c(102,2): warning C4013: “system”未定义；假设外部返回 int
+D:\Visual_Studio_2022_code\结构体\结构体\main.c(81,11): warning C4133: “初始化”: 从“*”到“Student *”的类型不兼容
+  结构体.vcxproj -> D:\Visual_Studio_2022_code\结构体\x64\Debug\结构体.exe
