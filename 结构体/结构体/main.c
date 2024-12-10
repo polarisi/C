@@ -35,19 +35,20 @@ struct
 	int age;
 }S1, S2;
 
-// 2. typedef 使用  结构体重命名为Student
+//// 2. typedef 使用  结构体重命名为Student
 typedef struct Student Student;
 
 
-////简写 1 2结合
-//typedef struct Student
-//{
-//	//char name[10];
-//
-//	char* name;
-//
-//	int age;
-//}Student, SS; //后面跟的是创建的结构体的名字
+//简写 1 2结合
+typedef struct Studentt
+{
+	//char name[10];
+
+	char* name;
+
+	int age;
+}Studentt, SS; //重定义为这两个名字
+
 
 //打印学生结构体信息
 void printStudentInfo(Student stu)
@@ -98,6 +99,9 @@ int main()
 	printStudentInfo1(&(students[1]));  //李四的  第二个元素 然后再取地址
 
 
+	Studentt SSS = { "在", 1 };
+
+	SS a = { "as", 15 };
 
 	system("pause");
 	system("cls");
